@@ -16,6 +16,7 @@ Modeled the Hardware project It is a type of rectifier circuit in which the diod
 
 ## Key Accomplishment
 Improving my skills to deal the electrical equipment with the MATLAB Software.
+Came to know how to burn MATLAB Simulink in Arduino UNO
 ## Screenshots
 
 * Circuit Diagram of Controlled Rectifier
